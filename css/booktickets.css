@@ -1,0 +1,22 @@
+.ticket{
+	width:100%;
+	min-height: 200px;
+	background: rgba(52,58,64,.5);
+	border:2px solid black;
+}
+.ticket h2{
+	text-align: center;
+
+}
+.ticket p{
+	font-weight: 20px;
+	font-size: 30px;
+}
+.ticket input[type="number"]
+{
+	margin: 0 0 8px 0;
+	width: 100px;
+}
+#btn{
+	margin: 0 0 5px 2px;
+}

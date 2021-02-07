@@ -1,0 +1,26 @@
+.body img{
+	width: 100%;
+}
+.box{
+	box-sizing: border-box;
+	width: 500px;
+    height: 250px;
+    margin: 150px 0px 0px 183px;
+	background: rgba(86,89,88,0.8);
+	position: absolute;
+	text-align: center;
+	color: white;
+}
+.box p{
+	padding: 5px;
+	font-size: 20px;
+	margin-top: 10px;
+	font-weight: 500;
+	font-size: 25px; 
+
+
+}
+.box h2{
+	font-weight: 1000;
+	margin:10px 5px;
+}

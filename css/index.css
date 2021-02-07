@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*start header*/
+header{
+	background: #121b2a;
+	padding:5px 0;
+}
+.wrapper {
+	/*border:2px solid yellow;*/
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo {
+	width: 13%;
+	/*border: 1px solid red;*/
+	float: left;
+
+}
+.logo img{
+	width: 87%;
+
+}
+
+.menu {
+	width: 70%;
+	/*border: 1px solid green;*/
+	float: right;
+	margin-top: 50px;
+}
+.menu ul{
+	float: right;
+
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	padding: 0 20px;
+	display: block;
+	text-transform: uppercase;
+	transition: .5s;
+
+}
+.menu ul li a:hover{
+	color: #00A9F4;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+/*End header*/
+.body img{
+	width: 100%;
+}
+.box{
+	box-sizing: border-box;
+	width: 367px;
+    height: 237px;
+    margin: 243px 0px 0px 183px;
+	background: rgba(86,89,88,0.8);
+	position: absolute;
+	text-align: center;
+	color: white;
+}
+.box p{
+	padding: 5px;
+	font-size: 20px;
+	margin-top: 10px;
+	font-weight: 500;
+	font-size: 25px; 
+
+
+}
+.box h2{
+	font-weight: 1000;
+	margin:10px 5px;
+}

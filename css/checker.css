@@ -1,0 +1,32 @@
+
+
+.box{
+	border: 3px dotted blue;
+	width: 23%;
+	min-height: 200px;
+}
+.wrapper{
+	overflow: hidden;
+		/*border: 2px dotted yellow;*/
+		width: 80%;
+	/*margin: 0 auto;*/
+
+}
+.box1{
+	border: 3px dotted blue;
+	width: 29%;
+	min-height: 200px;
+	float: left;
+}
+
+
+
+.box2{
+	border: 3px dotted blue;
+	width: 63%;
+	min-height: 200px;
+	float: right;
+}
+#sub{
+	margin: 5px 0;
+}
